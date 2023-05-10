@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "name": "s03-parcours-oblog-alexisdelahaye7-6a2dc034c70de53092b8f6aa40db1c931b3cc3f7",
+  "description": "![Aperçu](integration/apercu.png \"Aperçu\")",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
